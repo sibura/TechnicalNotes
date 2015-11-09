@@ -26,6 +26,34 @@ Notes on things I learned & snippets of code that will make my life easier
 // how do I print to the console again?
 ```
 
+### How to test using Mocha
+```javascript
+// how to on mocha..
+var assert =require("assert");
+
+describe("In the ferry kata", function(){
+	it("I should be able to create cars", function(){
+		//
+		//
+		//
+		assert.equal("car", "car");
+	});
+});
+
+### How to run mocha test
+
+// Open terminal go to Project(/project/testing-file/) file and run..
+mocha
+
+//this a failing test..
+it("should return no of car ", function(){
+		//
+		//
+		//
+		assert.equal (2, cars);
+	});
+```
+
 ### A note about something else
 add more here...
 
@@ -34,3 +62,4 @@ add more here...
 * [Todo something useful](notes/my_file.md) A short description here
 * [Create a basic Express app](notes/my_file.md) How to get going with express
 * [file-Practise](/sbura.md)
+* 
