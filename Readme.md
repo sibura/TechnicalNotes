@@ -1,4 +1,4 @@
-#sbura My Technical Notes
+#sbura's Technical Notes
 
 ## Workshops
 
