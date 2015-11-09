@@ -28,7 +28,7 @@ Notes on things I learned & snippets of code that will make my life easier
 
 ### How to test using Mocha
 ```javascript
-// how to on mocha..
+// how to on mocha..passing test.
 var assert =require("assert");
 
 describe("In the ferry kata", function(){
