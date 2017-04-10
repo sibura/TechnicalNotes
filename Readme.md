@@ -40,7 +40,7 @@ describe("In the ferry kata", function(){
 	});
 });
 
-### How to run mocha test
+## How to run mocha test
 
 // Open terminal go to Project(/project/testing-file/) file and run..
 mocha
