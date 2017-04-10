@@ -1,8 +1,6 @@
 
 
-##Sibusiso Technical Notes
-
-## Workshops
+## Sibusiso Technical Notes Workshops
 
 * [Functions & Objects](./workshops/functions_and_objects_slides.html)
 * [Useful algorithms](./workshops/useful_algorithms.md)
